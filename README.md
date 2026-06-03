@@ -1,3 +1,5 @@
+![alt text](readme_image.png)
+
 # GCP Cloud Storage ACL Security Demo
 
 Hands-on infrastructure demo showing how Fine-Grained Access Control Lists (ACLs) in Google Cloud Storage can expose sensitive objects publicly — even inside a private bucket — and how enabling Uniform Bucket-Level Access (UBLA) instantly closes the vulnerability.
