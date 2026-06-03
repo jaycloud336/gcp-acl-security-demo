@@ -1,0 +1,12 @@
+cat > .gitignore << EOF
+# Terraform vars with sensitive values
+terraform.tfvars
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform lock and temp files
+.terraform/
+.terraform.lock.hcl
+EOF
